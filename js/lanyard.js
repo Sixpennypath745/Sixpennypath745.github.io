@@ -7,7 +7,7 @@ function DexrnsFunnyLogger(message) {
 }
 
 const API_URL = 'https://api.lanyard.rest/v1';
-const USERID = '485504221781950465';
+const USERID = '678085726943969293';
 const pfp = document.getElementById('pfp');
 // const pfp2 = document.getElementById('pfp2');
 const status = document.getElementById('status');
